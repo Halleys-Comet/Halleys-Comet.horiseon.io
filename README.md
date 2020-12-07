@@ -1,5 +1,5 @@
-#Horiseon Refactor Challenge 
-
+# Horiseon Refactor Challenge 
+ 
 ## Description 
 
 In this challenge I was tasked to refactor code to help it meet accessibilty standards for a company called Horiseon. To start I added comments to break the HTML and CSS codes into sections so I could focus on one section at a time. There wasn't much of a title, so I updated to the title to show "Horiseon"
@@ -16,12 +16,11 @@ One of the last things I did was add alt text to each of the images that are on 
 
 ## Viewing
 
-In order to view the site you can 
+In order to view the site you can visit https://halleys-comet.github.io/Halleys-Comet.horiseon.io/
 
 
-## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+
 
 
 
